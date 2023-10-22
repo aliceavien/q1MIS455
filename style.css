@@ -1,0 +1,54 @@
+.intro h1 {
+    font-size: 40px;
+    color: rgba(2, 0, 2, 0.678);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.intro {
+    display: flex;
+    gap: 50px;
+    padding: 60px 0px;
+}
+
+.sideline{
+    height: 300px;
+    width: 100px;
+    background-color: blueviolet;
+}
+
+.ayesh1 {
+    width: 300px;
+    height: 300px;
+}
+
+.details {
+    display: flex;
+    gap: 50px;
+}
+
+.aboutme {
+    width: 400px;
+    margin-left: 100px;
+}
+
+.aboutme p{
+    font-size:25px ;
+}
+
+.container {
+    margin: auto;
+    width: fit-content;
+}
+
+
+
+
+
+.button1{
+    background-color: blueviolet;
+    color:white;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
